@@ -11,7 +11,7 @@ A premium, full-stack e-commerce platform engineered for luxury silk sarees. It 
 ## 📸 Platform Preview
 *
 <img width="1894" height="913" alt="Screenshot 2026-04-25 115123" src="https://github.com/user-attachments/assets/be496d9b-7db5-4cb2-9856-8712a43bfa24" />
-<img width="1510" height="717" alt="Screenshot 2026-09-18 112713" src="https://github.com/user-attachments/assets/21d6f5ce-a5be-474d-a2fb-e92787927326" />
+<img width="1502" height="717" alt="Screenshot 2026-09-18 190741" src="https://github.com/user-attachments/assets/17fa5b96-4e35-4063-b03a-475898818eda" />
 <img width="957" height="730" alt="Screenshot 2026-09-18 112640" src="https://github.com/user-attachments/assets/d9982203-cf2e-47f9-ad32-f5f41bd482af" />
 
 *
